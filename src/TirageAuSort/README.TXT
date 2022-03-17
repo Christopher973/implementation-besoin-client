@@ -1,11 +1,5 @@
-------------------------------------------------------------------------
-Ceci est le fichier LISEZMOI (README) du projet.  Décrivez-y votre projet.
-Dites au lecteur (qui ne sait rien du projet) ce qu'il a besoin de savoir.
-Au minimum, remplissez cette description :
-------------------------------------------------------------------------
+# Code Source du projet 
 
-TITRE DU PROJET :
-BUT POURSUIVI :
-VERSION ou DATE :
-AUTEUR :
-
+## Objectif 
+Le but de ce projet est de mettre en place un système de 
+tirage au sort d'un éléments parmis une liste donner.
