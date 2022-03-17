@@ -10,5 +10,6 @@ Projet créer dans le cadre d'une Situation d'Apprentissage et d'Évaluation à 
 
 ## Concept
 
-Ce projet est la mise en place d'un besoin client avec le langage de programmation JAVA ().  
+Ce projet est la mise en place d'un besoin client avec le langage de programmation JAVA
+.  
 
